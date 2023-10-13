@@ -432,11 +432,13 @@ h6 {
     background: url('./images/back-arrow1.png') no-repeat !important;
     font-weight: 300 !important;
     font-size: 16px !important;
+    z-index: 1 !important;
 }
 .bx-wrapper .bx-next{
     background: url('./images/back-arrow2.png') no-repeat  !important;
     font-weight: 300 !important;
     font-size: 16px !important;
+    z-index: 1 !important;
 }
 .bx-viewport{
     background: linear-gradient(141.11deg, rgb(73, 119, 238) 0%, rgb(240, 84, 84) 100%);
