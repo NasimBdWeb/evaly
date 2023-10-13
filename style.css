@@ -499,6 +499,17 @@ h6 {
     transition-timing-function: cubic-bezier(.4,0,.2,1)
 }
 
+
 footer{
     margin-top: 90px !important;
+}
+
+@media only screen and (max-width:432px){
+    .bottom-5{
+        bottom: 2.5rem !important;
+    }
+    .cright{
+        margin-bottom: 22px !important;
+    }
+    
 }
